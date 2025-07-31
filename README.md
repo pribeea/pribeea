@@ -14,7 +14,7 @@
 - 🎸 Rock N' Roll (`Linkin Park` 💙🔥) 
 - 🎧 Latin Urban
 
-  📢 **Disclaimer:**  
+📢 **Disclaimer:**  
 - "Not a coding fanatic, just a student figuring things out!"
 
 🚀 **Let's code and rock the world!** 
