@@ -13,6 +13,7 @@
 🎵 **Music Taste:** 
 - 🎸 Rock N' Roll (`Linkin Park forever!` 💙🔥) 
 - 🎧 Latin Urban
+- 🇧🇷 MPB
 
 📢 **Disclaimer:**  
 - "Not a coding fanatic, just a student figuring things out!"
