@@ -11,7 +11,7 @@
 - 🇪🇸 Spanish (Fluent)
 
 🎵 **Music Taste:** 
-- 🎸 Rock N' Roll (`Linkin Park forever!` 💙🔥) 
+- 🎸 Rock N' Roll
 - 🎧 Latin Urban
 - 🇧🇷 MPB
 
