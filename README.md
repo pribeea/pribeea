@@ -19,3 +19,5 @@
 - "Not a coding fanatic, just a student figuring things out!"
 
 🚀 **Let's code and rock the world!** 
+
+<img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="200" />
