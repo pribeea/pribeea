@@ -6,18 +6,4 @@
 - 💻 Coding casually (when I'm not vibing to music and enjoying life)
 - 📚 Sharing my projects and experiments here
 
-🌎 **Languages:**
-- 🇧🇷 Portuguese (Native) 
-- 🇪🇸 Spanish (Fluent)
-
-🎵 **Music Taste:** 
-- 🎸 Rock N' Roll
-- 🎧 Latin Urban
-- 🇧🇷 MPB
-
-📢 **Disclaimer:**  
-- "Not a coding fanatic, just a student figuring things out!"
-
-🚀 **Let's code and rock the world!** 
-
-<img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="200" />
+<img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="1000" />
