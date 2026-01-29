@@ -6,4 +6,4 @@
 - 💻 Coding casually (when I'm not vibing to music and enjoying life)
 - 📚 Sharing my projects and experiments here
 
-<img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="1000" />
+<img src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif" width="800" />
